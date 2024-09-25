@@ -15,7 +15,7 @@ To get started with VaraWrite, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vara-write.git
+   git clone https://github.com/Fanu2/vara-write.git
    cd vara-write
 Install the required dependencies:
 
