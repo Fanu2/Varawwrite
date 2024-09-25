@@ -1,0 +1,17 @@
+{
+  "name": "vara-project",
+  "version": "1.0.0",
+  "description": "A project using Vara.js for animated handwriting text",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --no-hmr"
+  },
+  "dependencies": {
+    "vara": "^1.4.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
