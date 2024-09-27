@@ -4,7 +4,8 @@
   "description": "A project using Vara.js for animated handwriting text",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html --no-hmr"
+    "start": "parcel index.html --no-hmr",
+    "build": "parcel build index.html"  // Added build script for Vercel
   },
   "dependencies": {
     "vara": "^1.4.1"
@@ -13,5 +14,8 @@
     "parcel": "^2.9.3"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"  // Optional: Specify Node.js version
+  }
 }
