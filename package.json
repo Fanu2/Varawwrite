@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html --no-hmr",
-    "build": "parcel build index.html"  // Added build script for Vercel
+    "build": "parcel build index.html"  
   },
   "dependencies": {
     "vara": "^1.4.1"
@@ -16,6 +16,6 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": ">=14.0.0"  // Optional: Specify Node.js version
+    "node": ">=14.0.0"  
   }
 }
